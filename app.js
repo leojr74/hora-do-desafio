@@ -10,8 +10,8 @@ function verificaAlerta() {
 };
 
 function verificaPrompt() {
-    let cidade = prompt ('digite um nome de uma cidade no brasil:');
-    alert (`estive em ${cidade} e lembrei de vc`);    
+    let estado = prompt ('digite um nome de um estado no brasil:');
+    alert (`estive em ${estado} e lembrei de vc`);    
 };
 
 
